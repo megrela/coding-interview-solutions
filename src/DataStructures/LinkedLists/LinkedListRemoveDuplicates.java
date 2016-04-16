@@ -1,6 +1,6 @@
 package DataStructures.LinkedLists;
 
-import Common.LinkedListNode;
+import CommonT.LinkedListNode;
 import java.util.Hashtable;
 
 /**
