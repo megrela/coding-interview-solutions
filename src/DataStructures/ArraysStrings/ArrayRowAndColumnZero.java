@@ -1,4 +1,4 @@
-package data_structures.arrays_strings;
+package DataStructures.ArraysStrings;
 
 /**
  * Created by Giorgi Megreli on 4/16/2016.
