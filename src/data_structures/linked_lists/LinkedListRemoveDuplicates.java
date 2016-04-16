@@ -1,8 +1,6 @@
 package data_structures.linked_lists;
 
-import com.sun.org.apache.xpath.internal.operations.Bool;
 import common.LinkedListNode;
-
 import java.util.Hashtable;
 
 /**
