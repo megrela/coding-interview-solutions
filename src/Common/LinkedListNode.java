@@ -1,4 +1,4 @@
-package CommonT;
+package Common;
 
 /**
  * Created by Giorgi Megreli on 4/16/2016.

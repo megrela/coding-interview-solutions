@@ -1,6 +1,6 @@
 package DataStructures.ArraysStrings;
 
-import CommonT.BitMask;
+import Common.BitMask;
 
 import java.util.Arrays;
 import java.util.Scanner;

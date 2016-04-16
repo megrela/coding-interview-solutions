@@ -1,6 +1,6 @@
 package DataStructures.LinkedLists;
 
-import CommonT.LinkedListNode;
+import Common.LinkedListNode;
 
 /**
  * Created by Giorgi Megreli on 4/16/2016.
